@@ -1,2 +1,31 @@
+.holder{
+    justify-content: space-evenly;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
 
-/* Your CSS Code here. */
+}
+.child1{
+    background-color: red;
+    height: 300px;
+    width: 300px;
+    margin: 1px;
+}
+.child2{
+    background-color: red;
+    height: 300px;
+    width: 300px;
+    margin: 1px;
+}
+.child3{
+    background-color: red;
+    height: 300px;
+    width: 300px;
+    margin: 1px;
+}
+.child4{
+    background-color: red;
+    height: 300px;
+    width: 300px;
+    margin: 1px;
+}
